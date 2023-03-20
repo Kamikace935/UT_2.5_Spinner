@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="seleccion">Escoje un tema</string>
+    <string name="spinner1">esto es un spinner</string>
+    <string name="spinner2">esto es otro spinner</string>
+    <string name="imagen">imagen de la opción</string>
+
+    <array name="temas">
+        <item>Libros</item>
+        <item>Mangas</item>
+        <item>Comics</item>
+    </array>
+
+    <array name="Libros">
+        <item>Piromides</item>
+        <item>¡Guardias! ¡Guardias!</item>
+        <item>Que dificil es ser Dios</item>
+    </array>
+
+    <array name="Comics">
+        <item>Blacksad</item>
+        <item>Fabulas</item>
+        <item>Hellboy</item>
+    </array>
+
+    <array name="Mangas">
+        <item>Berserk</item>
+        <item>Buenas noches Punpun</item>
+        <item>Bakemonogatari</item>
+    </array>
+</resources>
